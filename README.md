@@ -7,4 +7,7 @@ MakerFocus PWM Servo Motor Driver IIC Module 16 Channel PWM Outputs 12 Bit Resol
 
 [Servo Driver HAT](https://www.waveshare.com/wiki/Servo_Driver_HAT) Introduction and usage.
 
+[PCA9685 16-Channel 12-Bit PWM Driver](https://github.com/googolgl/go-pca9685) Introduction and usage.
+
+
 [Go Playground for Programmers](https://github.com/Com1Software/Go-Playground-for-Programmers)
